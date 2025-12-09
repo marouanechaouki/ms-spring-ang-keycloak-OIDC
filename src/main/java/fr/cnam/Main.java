@@ -1,4 +1,4 @@
-package net.youssfi;
+package fr.cnam;
 
 /**
  * @author ${USER}
